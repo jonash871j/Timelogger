@@ -8,7 +8,7 @@
 1. Extract node_modules.zip into client folder
 
 ## My workflow
-It has been quite a quest to get where I am now. I’m still a bit from being done with the timelogger. It has been my first time ever working with WebAPIs and React. It was particularly challenging to get data to and from the API and React. 
+It has been quite a quest to get where I am now. I’m still a bit from being done with the timelogger. It has been my first time working with WebAPIs and React. It was particularly challenging to get data to and from the API and React. 
 
 I have unfortunately used a database instead of memory database and in the frontend used JavaScript instead of TypeScript, mostly because I had issues. 
 
